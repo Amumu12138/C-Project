@@ -57,3 +57,12 @@ void psum2(float a[], float p[], long int n){
 	/* for odd n, finish remaining element*/
 	if (i < n) p[i] = p[i + 1] + a[i];
 }
+	
+/*
+* 指针完成值交换
+*/
+int exchange_test(int *xp, int y) {
+	int x = *xp;
+	*xp = y;
+	return x;
+}

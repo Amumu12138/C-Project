@@ -12,3 +12,5 @@ float sum_elements(float a[], unsigned length);
 
 void psum1(float a[], float p[], long int n);
 void psum2(float a[], float p[], long int n);
+
+int exchange_test(int *xp, int y);

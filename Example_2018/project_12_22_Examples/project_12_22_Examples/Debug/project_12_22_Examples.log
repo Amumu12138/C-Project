@@ -1,4 +1,4 @@
-﻿生成启动时间为 2019/7/19 20:59:57。
+﻿生成启动时间为 2020/1/13 20:32:13。
      1>项目“E:\C++Project\C-Project\Example_2018\project_12_22_Examples\project_12_22_Examples\project_12_22_Examples.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -11,4 +11,4 @@
 
 生成成功。
 
-已用时间 00:00:00.64
+已用时间 00:00:00.68
