@@ -29,5 +29,8 @@
     <ClInclude Include="陈涉世家.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="淮阴侯列传.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

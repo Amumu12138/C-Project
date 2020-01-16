@@ -83,6 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Example01_bytes.h" />
+    <ClInclude Include="淮阴侯列传.h" />
     <ClInclude Include="陈涉世家.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
